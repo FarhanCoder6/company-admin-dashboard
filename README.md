@@ -62,9 +62,6 @@ npm install
 
 # Step 4: Start development server
 npm run dev
-```
-
-Now open [http://localhost:5173](http://localhost:5173) in your browser 🎉
 
 ---
 
@@ -112,5 +109,5 @@ company-admin-dashboard/
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License.
 
